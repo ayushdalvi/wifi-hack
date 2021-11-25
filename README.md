@@ -1,2 +1,2 @@
 # wifi-hack
-This is just a tool under development
+This is just a tool 
